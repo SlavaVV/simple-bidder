@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "simple-bidder",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "60efb4be-c9c2-4911-9d3c-99cedc80d6d4",
+      "database_name": "fancy-cell-a272-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
